@@ -57,6 +57,6 @@ We welcome contributions to improve Bytes. To contribute:
 
 ---
 
-📬 Thank you for checking out Bytes! If you have any questions or feedback, feel free to open an issue or contact me at tanishkadeep09@gmail.com
+📬 Thank you for checking out Bytes! If you have any questions or feedback, feel free to open an issue or contact me at shashankmishrahjp@gmail.com
 
 ---
